@@ -1,0 +1,73 @@
+,Country,country_code
+0,Belgium,BE
+1,Bulgaria,BG
+2,Czechia,CZ
+3,Denmark,DK
+4,Germany,DE
+5,Estonia,EE
+6,Ireland,IE
+7,Greece,EL
+8,Spain,ES
+9,France,FR
+10,Croatia,HR
+11,Italy,IT
+12,Cyprus,CY
+13,Latvia,LV
+14,Lithuania,LT
+15,Luxembourg,LU
+16,Hungary,HU
+17,Malta,MT
+18,Netherlands,NL
+19,Austria,AT
+20,Poland,PL
+21,Portugal,PT
+22,Romania,RO
+23,Slovenia,SI
+24,Slovakia,SK
+25,Finland,FI
+26,Sweden,SE
+28,Iceland,IS
+29,Liechtenstein,LI
+35,Norway,NO
+36,Switzerland,CH
+42,United Kingdom,UK
+49,Montenegro,ME
+50,North Macedonia,MK
+51,Albania,AL
+52,Serbia,RS
+53,Turkey,TR
+56,Bosnia and Herzegovina,BA
+57,Kosovo*,XK[1]
+63,Armenia,AM
+64,Azerbaijan,AZ
+70,Belarus,BY
+71,Moldova,MD
+77,Georgia,GE
+78,Ukraine,UA
+84,Algeria,DZ
+85,Egypt,EG
+86,Israel,IL
+87,Jordan,JO
+91,Lebanon,LB
+92,Libya,LY
+93,Morocco,MA
+94,Palestine [2],PS
+98,Syria,SY
+99,Tunisia,TN
+105,Russia,RU
+112,Argentina,AR
+113,Australia,AU
+114,Brazil,BR
+115,Canada,CA
+119,China (except Hong Kong),CN_X_HK
+120,Hong Kong,HK
+121,India,IN
+122,Japan,JP
+126,Mexico,MX
+127,Nigeria,NG
+128,New Zealand,NZ
+129,Singapore,SG
+133,South Africa,ZA
+134,South Korea,KR
+135,Taiwan,TW
+136,United States,US
