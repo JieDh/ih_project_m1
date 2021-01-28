@@ -15,8 +15,10 @@ def cleaning_web(web_df):
     country_code_df = country_code.dropna(axis=0, thresh=1)  # thresh = 1 so we need minimum 2 NaN values in a row
     def clean_parenthesis(code_column):
         return re.sub('[()]', '', code_column)
-
     country_code_df['country_code'] = country_code_df['country_code'].astype(str).apply(clean_parenthesis)
+    #changing United Kingdom code to GB and Greece to GR
+    country_code_df['country_code'] = country_code_df['country_code'].replace(['UK'], 'GB')
+    country_code_df['country_code'] = country_code_df['country_code'].replace(['EL'], 'GR')
     country_code_csv = country_code_df.to_csv('data/processed/country_code.csv')
     return country_code_df
 
@@ -31,6 +33,8 @@ def final_df(db_api, country_code_df):
     project_df.reset_index(inplace=True)
     #drop index column that was created when we did the reset
     project_df.drop('index', axis=1, inplace=True)
+    #changing column names
+    project_df.columns = ['uuid', 'Country Code', 'Rural', 'Job Code', 'Title', 'parent_uuid', 'Country']
     project_csv = project_df.to_csv('data/processed/project.csv')
     return project_df
 
