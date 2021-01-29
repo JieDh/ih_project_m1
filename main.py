@@ -15,8 +15,6 @@ def main():
     project_df = final_df(merged, country_code)
 # analyze
     country = country_df(project_df)
-    #project = group_count(project_df)
-    #results = percentage(project)
 
 
 if __name__ == '__main__':

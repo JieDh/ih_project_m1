@@ -1,0 +1,125 @@
+,Country,Title,Rural,Quantity,Percentage
+0,Austria,Automatic Data Processing Planner,rural,1,0.28 %
+1,Austria,Automatic Data Processing Planner,urban,1,0.28 %
+2,Austria,Computer or Data Processing Systems Consultant,rural,1,0.28 %
+3,Austria,Computer or Data Processing Systems Consultant,urban,2,0.56 %
+4,Austria,Data Processing Systems Project Planner,urban,1,0.28 %
+5,Belgium,Automatic Data Processing Planner,rural,1,0.28 %
+6,Belgium,Automatic Data Processing Planner,urban,1,0.28 %
+7,Belgium,Data Processing Consultant,rural,1,0.28 %
+8,Belgium,Data Processing Systems Analyst,urban,2,0.56 %
+9,Belgium,Data Processing Systems Project Planner,urban,2,0.56 %
+10,Bulgaria,Automatic Data Processing Planner,urban,1,0.28 %
+11,Bulgaria,Computer or Data Processing Systems Consultant,urban,1,0.28 %
+12,Bulgaria,Data Processing Systems Analyst,urban,2,0.56 %
+13,Croatia,Computer or Data Processing Systems Consultant,urban,2,0.56 %
+14,Croatia,Data Processing Systems Project Planner,urban,1,0.28 %
+15,Czechia,Automatic Data Processing Planner,urban,2,0.56 %
+16,Czechia,Computer or Data Processing Systems Consultant,rural,1,0.28 %
+17,Czechia,Computer or Data Processing Systems Consultant,urban,2,0.56 %
+18,Czechia,Data Processing Systems Analyst,rural,1,0.28 %
+19,Czechia,Data Processing Systems Analyst,urban,2,0.56 %
+20,Czechia,Data Processing Systems Project Planner,rural,2,0.56 %
+21,Denmark,Automatic Data Processing Planner,rural,1,0.28 %
+22,Denmark,Automatic Data Processing Planner,urban,1,0.28 %
+23,Denmark,Data Processing Consultant,urban,2,0.56 %
+24,Finland,Computer or Data Processing Systems Consultant,rural,1,0.28 %
+25,Finland,Computer or Data Processing Systems Consultant,urban,1,0.28 %
+26,Finland,Data Processing Consultant,urban,1,0.28 %
+27,Finland,Data Processing Systems Analyst,rural,1,0.28 %
+28,France,Automatic Data Processing Planner,rural,5,1.39 %
+29,France,Automatic Data Processing Planner,urban,8,2.22 %
+30,France,Computer or Data Processing Systems Consultant,rural,6,1.67 %
+31,France,Computer or Data Processing Systems Consultant,urban,8,2.22 %
+32,France,Data Processing Consultant,urban,5,1.39 %
+33,France,Data Processing Systems Analyst,rural,4,1.11 %
+34,France,Data Processing Systems Analyst,urban,6,1.67 %
+35,France,Data Processing Systems Project Planner,rural,2,0.56 %
+36,France,Data Processing Systems Project Planner,urban,5,1.39 %
+37,Germany,Automatic Data Processing Planner,rural,4,1.11 %
+38,Germany,Automatic Data Processing Planner,urban,5,1.39 %
+39,Germany,Computer or Data Processing Systems Consultant,rural,5,1.39 %
+40,Germany,Computer or Data Processing Systems Consultant,urban,7,1.94 %
+41,Germany,Data Processing Consultant,rural,2,0.56 %
+42,Germany,Data Processing Consultant,urban,8,2.22 %
+43,Germany,Data Processing Systems Analyst,rural,4,1.11 %
+44,Germany,Data Processing Systems Analyst,urban,4,1.11 %
+45,Germany,Data Processing Systems Project Planner,rural,6,1.67 %
+46,Germany,Data Processing Systems Project Planner,urban,4,1.11 %
+47,Greece,Automatic Data Processing Planner,urban,1,0.28 %
+48,Greece,Computer or Data Processing Systems Consultant,urban,1,0.28 %
+49,Greece,Data Processing Consultant,urban,2,0.56 %
+50,Greece,Data Processing Systems Analyst,urban,1,0.28 %
+51,Greece,Data Processing Systems Project Planner,urban,1,0.28 %
+52,Hungary,Automatic Data Processing Planner,urban,1,0.28 %
+53,Hungary,Data Processing Systems Analyst,urban,2,0.56 %
+54,Hungary,Data Processing Systems Project Planner,urban,1,0.28 %
+55,Ireland,Data Processing Consultant,urban,2,0.56 %
+56,Ireland,Data Processing Systems Analyst,urban,2,0.56 %
+57,Ireland,Data Processing Systems Project Planner,urban,1,0.28 %
+58,Italy,Automatic Data Processing Planner,rural,2,0.56 %
+59,Italy,Automatic Data Processing Planner,urban,5,1.39 %
+60,Italy,Computer or Data Processing Systems Consultant,rural,2,0.56 %
+61,Italy,Computer or Data Processing Systems Consultant,urban,5,1.39 %
+62,Italy,Data Processing Consultant,rural,1,0.28 %
+63,Italy,Data Processing Consultant,urban,3,0.83 %
+64,Italy,Data Processing Systems Analyst,urban,9,2.5 %
+65,Italy,Data Processing Systems Project Planner,rural,1,0.28 %
+66,Italy,Data Processing Systems Project Planner,urban,9,2.5 %
+67,Latvia,Data Processing Systems Project Planner,rural,1,0.28 %
+68,Lithuania,Data Processing Systems Project Planner,urban,1,0.28 %
+69,Netherlands,Automatic Data Processing Planner,urban,3,0.83 %
+70,Netherlands,Computer or Data Processing Systems Consultant,urban,2,0.56 %
+71,Netherlands,Data Processing Consultant,urban,2,0.56 %
+72,Netherlands,Data Processing Systems Analyst,rural,2,0.56 %
+73,Netherlands,Data Processing Systems Analyst,urban,4,1.11 %
+74,Poland,Automatic Data Processing Planner,rural,1,0.28 %
+75,Poland,Automatic Data Processing Planner,urban,5,1.39 %
+76,Poland,Computer or Data Processing Systems Consultant,urban,6,1.67 %
+77,Poland,Data Processing Consultant,urban,5,1.39 %
+78,Poland,Data Processing Systems Analyst,rural,1,0.28 %
+79,Poland,Data Processing Systems Analyst,urban,4,1.11 %
+80,Poland,Data Processing Systems Project Planner,urban,3,0.83 %
+81,Portugal,Automatic Data Processing Planner,urban,1,0.28 %
+82,Portugal,Computer or Data Processing Systems Consultant,rural,1,0.28 %
+83,Portugal,Computer or Data Processing Systems Consultant,urban,2,0.56 %
+84,Portugal,Data Processing Consultant,urban,5,1.39 %
+85,Portugal,Data Processing Systems Project Planner,urban,2,0.56 %
+86,Romania,Automatic Data Processing Planner,urban,3,0.83 %
+87,Romania,Computer or Data Processing Systems Consultant,rural,2,0.56 %
+88,Romania,Computer or Data Processing Systems Consultant,urban,4,1.11 %
+89,Romania,Data Processing Consultant,urban,2,0.56 %
+90,Romania,Data Processing Systems Analyst,urban,1,0.28 %
+91,Romania,Data Processing Systems Project Planner,rural,1,0.28 %
+92,Romania,Data Processing Systems Project Planner,urban,6,1.67 %
+93,Slovakia,Automatic Data Processing Planner,rural,1,0.28 %
+94,Slovakia,Automatic Data Processing Planner,urban,1,0.28 %
+95,Slovakia,Computer or Data Processing Systems Consultant,rural,1,0.28 %
+96,Slovakia,Computer or Data Processing Systems Consultant,urban,1,0.28 %
+97,Slovakia,Data Processing Consultant,rural,1,0.28 %
+98,Slovakia,Data Processing Systems Analyst,rural,1,0.28 %
+99,Slovakia,Data Processing Systems Project Planner,rural,2,0.56 %
+100,Slovenia,Automatic Data Processing Planner,urban,1,0.28 %
+101,Slovenia,Data Processing Systems Analyst,rural,1,0.28 %
+102,Spain,Automatic Data Processing Planner,rural,1,0.28 %
+103,Spain,Automatic Data Processing Planner,urban,8,2.22 %
+104,Spain,Computer or Data Processing Systems Consultant,rural,1,0.28 %
+105,Spain,Computer or Data Processing Systems Consultant,urban,8,2.22 %
+106,Spain,Data Processing Consultant,rural,1,0.28 %
+107,Spain,Data Processing Consultant,urban,5,1.39 %
+108,Spain,Data Processing Systems Analyst,rural,1,0.28 %
+109,Spain,Data Processing Systems Analyst,urban,9,2.5 %
+110,Spain,Data Processing Systems Project Planner,rural,1,0.28 %
+111,Spain,Data Processing Systems Project Planner,urban,7,1.94 %
+112,Sweden,Automatic Data Processing Planner,urban,4,1.11 %
+113,Sweden,Computer or Data Processing Systems Consultant,urban,2,0.56 %
+114,United Kingdom,Automatic Data Processing Planner,rural,3,0.83 %
+115,United Kingdom,Automatic Data Processing Planner,urban,6,1.67 %
+116,United Kingdom,Computer or Data Processing Systems Consultant,rural,3,0.83 %
+117,United Kingdom,Computer or Data Processing Systems Consultant,urban,10,2.78 %
+118,United Kingdom,Data Processing Consultant,rural,1,0.28 %
+119,United Kingdom,Data Processing Consultant,urban,4,1.11 %
+120,United Kingdom,Data Processing Systems Analyst,rural,4,1.11 %
+121,United Kingdom,Data Processing Systems Analyst,urban,8,2.22 %
+122,United Kingdom,Data Processing Systems Project Planner,rural,3,0.83 %
+123,United Kingdom,Data Processing Systems Project Planner,urban,2,0.56 %

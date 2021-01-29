@@ -17,8 +17,8 @@ def cleaning_web(web_df):
         return re.sub('[()]', '', code_column)
     country_code_df['country_code'] = country_code_df['country_code'].astype(str).apply(clean_parenthesis)
     #changing United Kingdom code to GB and Greece to GR
-    country_code_df['country_code'] = country_code_df['country_code'].replace(['UK'], 'GB')
-    country_code_df['country_code'] = country_code_df['country_code'].replace(['EL'], 'GR')
+    country_code_df.loc[(country_code_df.country_code == 'UK'),'country_code'] = 'GB'
+    country_code_df.loc[(country_code_df.country_code == 'EL'),'country_code'] = 'GR'
     country_code_csv = country_code_df.to_csv('data/processed/country_code.csv')
     return country_code_df
 
